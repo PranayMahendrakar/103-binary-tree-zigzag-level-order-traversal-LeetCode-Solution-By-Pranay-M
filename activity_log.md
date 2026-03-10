@@ -4,3 +4,4 @@
 - [2026-03-10T20:45:37Z] docs: improve inline documentation
 - [2026-03-10T13:26:12Z] refactor: simplify conditional logic
 - [2026-03-10T11:30:58Z] fix: handle null pointer exception
+- [2026-03-10T11:18:54Z] chore: remove deprecated API calls
