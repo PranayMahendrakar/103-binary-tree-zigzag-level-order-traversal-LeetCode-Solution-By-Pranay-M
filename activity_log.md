@@ -6,3 +6,4 @@
 - [2026-03-10T11:30:58Z] fix: handle null pointer exception
 - [2026-03-10T11:18:54Z] chore: remove deprecated API calls
 - [2026-03-10T22:01:49Z] chore: update dependencies to latest versions
+- [2026-03-30T15:10:15Z] fix: resolve edge case in input validation
